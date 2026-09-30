@@ -29,4 +29,4 @@ I like to:
 - Do maths
 - Have fun
 
-This is a hyperlink to the [Imperial MSc Statistististics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
+This is a hyperlink to the [Imperial MSc Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
