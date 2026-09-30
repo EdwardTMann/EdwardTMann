@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Introduction to me
+# Hello, I'm Edward
 
 I am studying MSc Statistics at Imperial.
 
