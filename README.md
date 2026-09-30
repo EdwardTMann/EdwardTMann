@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **EdwardTMann/EdwardTMann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Introduction to me
+
+I am studying MSc Statistics at Imperial.
+
+# Main
+
+I am currently learning how to use Markdown in GitHub.
+
+I like to:
+
+- Go gym
+- Do maths
+- Have fun
+
+This is a hyperlink to the [Imperial MSc Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
